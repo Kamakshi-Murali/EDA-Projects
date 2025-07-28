@@ -1,2 +1,0 @@
-# EDA-Projects
-EDA Projects
